@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tiles</string>
+    <string name="vpn_tile_name">VPN</string>
+    <string name="dev_settings_tile_name">Dev</string>
+</resources>
